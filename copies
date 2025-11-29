@@ -1,0 +1,87 @@
+
+    <section class="second-section" id="Skills">
+      <h2>Skill Set</h2>
+      <div class="skillset">
+
+        <div class="firstSkill">
+          <h4>Front End</h4>
+          <a href="https://html.com/" target="_blank">
+            <img src="images/5847f5bdcef1014c0b5e489c.png" alt="">
+          </a>
+          <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank">
+            <img src="images/css-3.png" alt="">
+          </a>
+          <a href="https://www.w3schools.com/js/js_intro.asp" target="_blank">
+            <img
+              src="images/kisspng-javascript-logo-solution-stack-software-widget-pyt-5af5de1de08ad1.4608147015260626219197.png"
+              alt="">
+          </a>
+          <a href="https://bootstrapstudio.io/ " target="_blank">
+            <img src="images/befb83ee3f6731fb27293b2bdda2869a.png" alt="">
+          </a>
+          <p>and still learning ...</p>
+        </div>
+
+
+        <div class="secondSkill ">
+          <h4>Back End</h4>
+          <a href="https://www.w3schools.com/js/js_intro.asp" target="_blank">
+            <img
+              src="images/kisspng-javascript-logo-solution-stack-software-widget-pyt-5af5de1de08ad1.4608147015260626219197.png"
+              alt="">
+          </a>
+          <a href="https://www.java.com/en/" target="_blank">
+            <img src="images/java (1).png" alt="">
+          </a>
+          <a href="https://www.w3schools.com/cs/index.php" target="_blank">
+            <img src="images/3599173963dc3b2964a1a3d74e5074d4.png" alt="">
+          </a>
+          <a href="https://www.php.net/" target="_blank">
+            <img src="images/php.png" alt="">
+          </a>
+          <p>and still learning ...</p>
+        </div>
+
+
+        <div class="thirdSkill">
+          <h4>Others</h4>
+          <a href="https://www.capcut.com/" target="_blank">
+            <img src="images/1664284918capcut-icon-png.png" alt="">
+          </a>
+          <a href="https://www.kinemaster.com/" target="_blank">
+            <img src="images/1691823085kinemaster-logo-png-download.png" alt="">
+          </a>
+          <a href="https://www.picsart.com/" target="_blank">
+            <img src="images/72921236444987842955.jpeg" alt="">
+          </a>
+          <a href="https://alightmotion.com/" target="_blank">
+            <img src="images/1664536987alight-motion-logo-transparent.png" alt="">
+          </a>
+          <a href="https://alison.com/tag/computer-literacy" target="_blank">
+            <img src="images/e-book.png" alt="">
+          </a>
+          <a href="https://chat.openai.com/" target="_blank">
+            <img src="images/512px-ChatGPT-Logo.png" alt="">
+          </a>
+        </div>
+
+
+
+      </div>
+      <!---Skill set-->
+
+    </section>
+
+    <section class="third-section" id="Works">
+      <h2>My Works</h2>
+
+
+
+    </section>
+
+    <section class="fourth-section" id="Contact">
+      <h2>Contact</h2>
+
+
+
+    </section>

@@ -1,0 +1,10 @@
+else if(scrollDown > 2560){
+    firstlad.style.animation = 'none';
+    firstlad.style.opacity = '0';
+    secondlad.style.animation = 'none';
+    secondlad.style.opacity = '0';
+    thirdlad.style.animation = 'none';
+    thirdlad.style.opacity = '0';
+    fourthlad.style.animation = 'none';
+    fourthlad.style.opacity = '0';
+  }
